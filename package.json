@@ -1,6 +1,7 @@
 {
   "name": "@ocinkram/localization",
   "version": "1.0.0",
+  "type": "module",
   "description": "texts only. may support different languages in the future.",
   "main": "index.js",
   "scripts": {
