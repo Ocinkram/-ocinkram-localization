@@ -1,3 +1,1 @@
-import { test } from "./index.js";
-
-console.log(test);
+import { toolLabels } from "./index.js";
