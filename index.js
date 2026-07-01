@@ -1,1 +1,1 @@
-export * from './src/toolLabels.js'
+export * from './src/en/index.js'
